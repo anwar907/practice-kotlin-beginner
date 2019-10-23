@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val fullName = getFullName(first = "Kotlin" , middle = " is ", last = "Awesome")
+    val fullName = getFullName(first = "Kotlin Awesome" , middle = " is ", last = "Awesome")
     print(fullName)
 }
 
